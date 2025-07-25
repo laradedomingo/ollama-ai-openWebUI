@@ -1,0 +1,28 @@
+# Entorno virtual
+venv312/
+
+# Archivos de caché y temporales
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Configuración local y secretos
+.env
+.webui_secret_key
+
+# Archivos de sistema
+.DS_Store
+
+# Archivos de build y estáticos generados
+open-webui/build/
+open-webui/static/
+
+# Datos y bases de datos locales
+open-webui/backend/data/
+
+# Otros archivos que no quieras subir
+webui.log
+
+# Node modules (si alguna vez se genera)
+node_modules/
