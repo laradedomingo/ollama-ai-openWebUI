@@ -1,6 +1,6 @@
 # Open WebUI - Instalación Local
 
-![Vista de Open WebUI](open-webui/static/openwebUI.png)
+![Vista de Open WebUI](openwebUI.png)
 
 Este proyecto te permite ejecutar Open WebUI con modelos locales como Mistral usando Ollama.
 
